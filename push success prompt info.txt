@@ -1,0 +1,13 @@
+git.exe push --progress "samples" master:master
+
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 309 bytes | 309.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/AndrewTjh/sample-projects.git
+2bb1fca..d84dc8f  master -> master
+
+Success (9907 ms @ 2018/7/8/周日 18:00:13)
