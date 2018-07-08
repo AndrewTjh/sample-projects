@@ -12,4 +12,21 @@ To https://github.com/AndrewTjh/sample-projects.git
 
 Success (9907 ms @ 2018/7/8/周日 18:00:13)
 
+
 I write a line here...
+
+
+git.exe push --progress "samples" master:master
+
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 666 bytes | 666.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/AndrewTjh/sample-projects.git
+d84dc8f..554c698  master -> master
+
+Success (8891 ms @ 2018/7/8/周日 18:03:21)
+
+
